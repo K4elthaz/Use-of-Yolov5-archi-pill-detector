@@ -1,0 +1,58 @@
+
+
+train: ../Final_Data_Set/images/train/ # train images (relative to 'path') 128 images
+val: ../Final_Data_Set/images/val/  # val images (relative to 'path') 128 images
+
+
+
+names:
+  0: Bonamine
+  1: Carbocisteine
+  2: Daflon100
+  3: Daflon500
+  4: Difflan
+  5: Dizitab
+  6: Flanax275
+  7: DecolgenForte
+  8: Dextrocol
+  9: Gdetoxplus
+  10: Hemroid
+  11: Kiddilets
+  12: Loniper
+  13: Megalin
+  14: Nasatapp
+  15: NoDrowse
+  16: PotenCee
+  17: Robitussin
+  18: Solmux
+  19: Tempra
+  20: Amlodipine
+  21: Atenolol
+  22: Cefalexin
+  23: Cetirizine
+  24: Dian Pills
+  25: Ferricore
+  26: Fishoil ATC
+  27: Flagyl
+  28: Furic
+  29: Glucophage
+  30: Ketobest
+  31: Ketosteril
+  32: Medicol
+  33: Metformin
+  34: Simvastatin
+  35: Sinupret forte
+  36: Xanor
+  37: Xenical
+  38: Acylovir
+  39: ALAnerv
+  40: Allopurinol
+  41: Appetason
+  42: Aronamin Gold
+  43: Beniforte
+  44: Cerazette
+  45: Cipromet
+  46: Dulcolax
+  47: Enat 400
+  48: Evion 400
+  49: Nervagest
